@@ -37,12 +37,9 @@ img{
 .header{
     background: var(--general-color);
     display: flex;
-    max-width: 1600px;
     height: 80px;
     margin-left: auto;
     margin-right: auto;
-    padding-left: 215px;
-    padding-right: 215px;
     border: 1px solid #ECECEC
     
 }
