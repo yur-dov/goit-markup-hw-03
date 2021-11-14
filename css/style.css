@@ -119,6 +119,7 @@ img{
 
 .main-hero{
     background: var(--fonts-color);
+    
     max-height: 600px;
     align-items: center;
     padding-top: 200px;
