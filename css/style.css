@@ -228,7 +228,7 @@ img{
     letter-spacing: 0.03em;
     margin-bottom: 50px;
 }
-.members-name{
+.member-name{
     color: var(--main-title-color);
     font-style: normal;
     font-weight: 500;
@@ -236,6 +236,7 @@ img{
     line-height: 1.18;
     text-align: center;
     letter-spacing: 0.03em;
+    margin-bottom: 10px;
 }
 .members-about{
     color: var(--main-text-color);
@@ -245,7 +246,6 @@ img{
     font-size: 16px;
     text-align: center;
     letter-spacing: 0.03em;
-
 }
 .list-members{
     display: flex;
@@ -264,6 +264,7 @@ img{
     padding-top: 30px;
     background:#ffffff;
     text-align: center;
+    border-radius: 0px 0px 4px 4px;
 }
 
 
@@ -315,7 +316,7 @@ img{
 }
 
 .footer-contact:not(:last-child){
-    margin: 9px;
+    margin-bottom: 9px;
 }
 
 
@@ -338,6 +339,7 @@ img{
     letter-spacing: 0.03em;
     cursor: pointer;
     font-family: inherit;
+    padding: 6px 24px;
 }
 .portfolio-btn:focus,
 .portfolio-btn:hover{
